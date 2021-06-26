@@ -1,4 +1,4 @@
-mport React from 'react';
+import React from 'react';
 import { RectButton, RectButtonProps } from 'react-native-gesture-handler';
 import { View, Text } from 'react-native';
 
