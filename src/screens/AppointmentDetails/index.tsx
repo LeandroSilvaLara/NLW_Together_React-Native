@@ -14,9 +14,9 @@ import { styles } from './styles';
 import BannerImg from '../../assets/banner.png';
 
 import { ListDivider } from '../../components/ListDivider';
-import { Background } from '../../components/blackground';
+import { Background } from '../../components/Background';
 import { ListHeader } from '../../components/ListHeader';
-import { ButtonIcon } from '../../components/buttonicon';
+import { ButtonIcon } from '../../components/ButtonIcon'; 
 import { Member } from '../../components/Member';
 import { Header } from '../../components/Header';
 
@@ -24,14 +24,14 @@ export function AppointmentDetails(){
   const members = [
     {
       id: '1',
-      username: 'Rodrigo',
-      avatar_url: 'https://github.com/rodrigorgtic.png',
+      username: 'Leandro',
+      avatar_url: 'https://github.com/LeandroSilvaLara.png',
       status: 'online'
     },
     {
       id: '2',
-      username: 'Rodrigo',
-      avatar_url: 'https://github.com/rodrigorgtic.png',
+      username: 'Yuji Ueki',
+      avatar_url: 'https://github.com/unhappychoice.png',
       status: 'offline'
     }
   ]

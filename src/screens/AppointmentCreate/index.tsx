@@ -13,7 +13,7 @@ import {
 import { theme } from '../../global/styles/theme';
 import { styles } from './styles';
 
-import { CategorySelect } from '../../components/categorySelect';
+import { CategorySelect } from '../../components/CategorySelect';
 import { ModalView } from '../../components/ModalView';
 import { SmallInput } from '../../components/SmallInput';
 import { GuildIcon } from '../../components/GuildIcon';
